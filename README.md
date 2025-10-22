@@ -1,16 +1,38 @@
-## Hi there 👋
+# Stephen Trainor
+[Personal Website](https://osteriastefano.vercel.app/)
 
-<!--
-**StephenTrainor/StephenTrainor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the **University of Pennsylvania**, pursuing B.S.E. and M.S.E. in **Computer Science**, with an **Artificial Intelligence Concentration** and **Statistics + Data Science Minor**.
+
+---
+
+### 🚀 Key Projects
+
+A few repos to check out...
+
+* [Hangry Squid:](https://github.com/fahimmehraj/hangry-squid) Social deduction game based on Squid Games and Hunger Games, in OCaml (with RPCs, websockets, and incremental computation libraries)
+
+* [Quaker Chat:](https://github.com/StephenTrainor/dp-hacks-frontend) Anonymous, proximity-based chat app for UPenn students
+
+* [Right Raise:](https://github.com/StephenTrainor/rightraise) Free fundraising website with secured donations and automated email campaigns for convenient fundraising
+
+---
+
+### Currently Learning
+
+* Analytical analysis
+
+* How to use jargon
+
+* Essential necessities for core infrastructure
+
+---
+
+### 🤝 Connect
+
+Feel free to reach out!
+
+* setrain@seas.upenn.edu
