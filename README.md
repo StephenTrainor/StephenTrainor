@@ -1,4 +1,4 @@
-# Stephen Trainor
+# A little about me
 [Personal Website](https://osteriastefano.vercel.app/)
 
 ### 🎓 Education
