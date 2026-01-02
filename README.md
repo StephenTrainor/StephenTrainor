@@ -1,15 +1,13 @@
 # A little about me
 [Personal Website](https://osteriastefano.vercel.app/)
 
-### 🎓 Education
+### Education
 
 At the **University of Pennsylvania**, pursuing B.S.E. and M.S.E. in **Computer Science**, with an **Artificial Intelligence Concentration** and **Statistics + Data Science Minor**.
 
 ---
 
-### 🚀 Key Projects
-
-A few repos to check out...
+### A few repos to check out...
 
 * [Hangry Squid:](https://github.com/fahimmehraj/hangry-squid) Social deduction game based on Squid Games and Hunger Games, in OCaml (with RPCs, websockets, and incremental computation libraries)
 
@@ -25,7 +23,7 @@ A few repos to check out...
 
 * Essential necessities for core infrastructure
 
-### 🤝 Connect
+### Connect
 
 Feel free to reach out!
 
