@@ -3,7 +3,7 @@
 
 ### Education
 
-At the **University of Pennsylvania**, pursuing B.S.E. and M.S.E. in **Computer Science**, with an **Artificial Intelligence Concentration** and **Statistics + Data Science Minor**.
+At the **University of Pennsylvania**, pursuing B.S.E. in **Computer Science**, with an **Artificial Intelligence Concentration** and **Statistics + Data Science Minor**.
 
 ---
 
